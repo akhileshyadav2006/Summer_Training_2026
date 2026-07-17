@@ -1,0 +1,5 @@
+print("My", "name", "is", "Akhilesh Yadav", sep="" )
+print("I", "am", "a", "student", sep="-")
+print("I", "am", "19", "year", "old", sep="*")
+print("My", "goal", "is", "a", "Software Engineer", sep="|")
+print("Thank", "you!", sep="", end="")

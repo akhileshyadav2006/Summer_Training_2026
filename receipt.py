@@ -1,0 +1,10 @@
+print("============Shopping Receipts=============")
+print("Items\t\tQty\tPrice")
+print("Ball\t\t2\t140")
+print("Bat\t\t2\t3000")
+print("T-sirt\t\t1\t450")
+print("Banana\t\t12\t60")
+print("\n----------------------------------------")    
+print("Total\t\t\t3650") 
+print("Thank you for shopping!")
+      
