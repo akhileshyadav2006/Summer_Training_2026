@@ -1,0 +1,12 @@
+print("*"*40)
+print("----------CITY CART RECEIPTS---------")
+print("*"*40)
+
+print("Item\t\tQTY\tPrice")
+print("Sirt\t\t2\t500")
+print("T-Sirt\t\t2\450")
+print("Lower\t\t1\500")
+print("Cap\t\t1\200")
+print("\n")
+print("Total\t\t\1650")
+print("Thank you for shopping!")
